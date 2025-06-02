@@ -4,7 +4,7 @@
 
 Welcome to the E-commerce Microservices repository! This project demonstrates a modern e-commerce platform built using microservices architecture. The system is designed to be scalable, resilient, and maintainable through the implementation of best practices in distributed systems.
 
-![E-commerce Microservice Architecture](https://raw.githubusercontent.com/kenniy/EcommerceMicroservices/refs/heads/main/EcommerceMicroservice.png)
+![E-commerce Microservice Architecture](https://raw.githubusercontent.com/keniiy/EcommerceMicroservices/refs/heads/main/EcommerceMicroservice.png)
 
 ## Features
 
